@@ -1,0 +1,7 @@
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\bin\Debug\ReadingCOM.exe.config
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\bin\Debug\ReadingCOM.exe
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\bin\Debug\ReadingCOM.pdb
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\obj\Debug\ReadingCOM.csproj.AssemblyReference.cache
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\obj\Debug\ReadingCOM.csproj.CoreCompileInputs.cache
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\obj\Debug\ReadingCOM.exe
+D:\DOC PER\C# CONSOLA\ReadingCOMGITHUB\ReadingCOM\ReadingCOM\obj\Debug\ReadingCOM.pdb
